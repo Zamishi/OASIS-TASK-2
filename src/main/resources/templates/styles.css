@@ -1,0 +1,88 @@
+body {
+    background-color: #000;
+    color: #f8f9fa; /* Light color for the entire body text */
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    background-color: #333;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    color: white;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    color: black;
+}
+
+.btn-warning:hover {
+    background-color: #e0a800;
+}
+
+.alert-custom {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.text-light {
+    color: #f8f9fa; /* Ensure text is visible */
+}
+
+.text-header {
+    color: #f8f9fa; /* Header color */
+}
+
+.text-message {
+    color: #f8f9fa; /* Message color */
+}
+
+.label {
+    color: #f8f9fa; /* Label color */
+}
+
+.text-attempts {
+    color: #f8f9fa; /* Light color for attempts */
+}
+
+.text-score {
+    color: #f8f9fa; /* Light color for score */
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
